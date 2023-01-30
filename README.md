@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**iamBiB/iamBiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Bogdan!
 
-Here are some ideas to get you started:
+*/ #######################################  */
+/*      I don`t always test my code         */
+/*  But when I do, I do it in production    */
+/* #######################################  */
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently working on ...
+
+- [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - Laravel CAS login package 
+- [ecphp/laravel-ecas] - Laravel ECAS login package - in progress ... not yet public
+- [iamBiB/lovelace-htc-flipclock-weather](https://github.com/iamBiB/lovelace-htc-flipclock-weather) - HTC weather clock for HomeAssistant
+
+I'm currently **available for remote work**, feel free to contact me.
+
+[![BiB's github stats](https://github-readme-stats.vercel.app/api?username=iamBiB&count_private=true&show_icons=true)](https://github.com/iambib)
