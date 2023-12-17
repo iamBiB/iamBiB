@@ -9,6 +9,7 @@ I'm Bogdan!
 
 #### 🔭 I’m currently working on ...
 
+- [iamBiB/collection-extender](https://github.com/iamBiB/collection-extender) - Laravel / Lumen collection extender
 - [ecphp/laravel-cas](https://github.com/ecphp/laravel-cas) - Laravel CAS login package 
 - [ecphp/laravel-ecas](https://github.com/ecphp/laravel-ecas) - Laravel ECAS login package
 - [iamBiB/lovelace-htc-flipclock-weather](https://github.com/iamBiB/lovelace-htc-flipclock-weather) - HTC weather clock for HomeAssistant
